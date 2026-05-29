@@ -1,0 +1,60 @@
+[
+  {
+    "id": "founder_badge",
+    "name": "Kurucu",
+    "description": "Sunucunun gelişiminde kritik rol oynayan kurucu ekibin parçası.",
+    "icon_emoji": "👑",
+    "category": "staff",
+    "color": "#FFD700"
+  },
+  {
+    "id": "admin_badge",
+    "name": "Yönetici",
+    "description": "Sunucunun yönetiminden sorumlu üst düzey yetkili.",
+    "icon_emoji": "⚙️",
+    "category": "staff",
+    "color": "#F44336"
+  },
+  {
+    "id": "moderator_badge",
+    "name": "Moderatör",
+    "description": "Topluluğu düzenli ve güvenli tutan ekip üyesi.",
+    "icon_emoji": "🛠️",
+    "category": "staff",
+    "color": "#2196F3"
+  },
+  {
+    "id": "trial_mod_badge",
+    "name": "Deneme Moderatör",
+    "description": "Moderatörlük için deneme sürecinde.",
+    "icon_emoji": "🔰",
+    "category": "staff",
+    "color": "#03A9F4"
+  },
+  {
+    "id": "sharer_badge",
+    "name": "Paylaşımcı",
+    "description": "Aktif olarak paylaşım yapan üye.",
+    "icon_emoji": "✨",
+    "category": "staff",
+    "color": "#03A9F4"
+  },
+
+  {
+    "id": "supporter_badge",
+    "name": "Destekçi",
+    "description": "Sunucumuza destek olan özel üye.",
+    "icon_emoji": "💎",
+    "category": "special",
+    "color": "#00BCD4"
+  },
+
+  {
+    "id": "starter_badge",
+    "name": "İlk Adım",
+    "description": "Sunucuya katıldıktan sonra ilk görevini tamamlayan üye.",
+    "icon_emoji": "🌱",
+    "category": "achievements",
+    "color": "#4CAF50"
+  }
+]

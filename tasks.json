@@ -1,0 +1,42 @@
+[
+  {
+    "id": "starter_chat",
+    "name": "Yeni Başlayan",
+    "description": "Genel kanala 10 mesaj gönder.",
+    "requirements": {
+      "type": "message_count",
+      "target_value": 10,
+      "channel_id": "123456789012345678"
+    },
+    "rewards": [
+      {
+        "type": "xp",
+        "value": "50"
+      },
+      {
+        "type": "badge",
+        "value": "starter_badge"
+      }
+    ],
+    "is_repeatable": false,
+    "category": "milestones"
+  },
+  {
+    "id": "vip_access_task",
+    "name": "VIP Deneme",
+    "description": "Gün içinde toplam 100 mesaj gönder.",
+    "requirements": {
+      "type": "message_count",
+      "target_value": 15
+    },
+    "rewards": [
+      {
+        "type": "temp_access",
+        "value": "1308492732267757629",
+        "duration": "10m"
+      }
+    ],
+    "is_repeatable": false,
+    "category": "daily"
+  }
+]
